@@ -11,7 +11,6 @@ int main() {
 
     for (int i = 0; i < 3; i++) {
         Arr[i].ShowValues();
-        std::cout << std::endl;
-    }
+        std::cout << std::endl;c x
     //smth
 }
