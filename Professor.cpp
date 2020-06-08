@@ -17,3 +17,10 @@ void Professor::ShowValues()
 	Group::display();
 
 }
+
+std::string Professor::getDepart()
+{
+	return department;
+}
+
+
